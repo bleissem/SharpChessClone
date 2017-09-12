@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.bleissem.SharpChessClone", "com.bleissem.SharpChessClone\com.bleissem.SharpChessClone.csproj", "{FACC0477-1DF7-4D94-9D0B-C882D7385533}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.bleissem.SharpChessClone", "com.bleissem.SharpChessClone\com.bleissem.SharpChessClone.csproj", "{FACC0477-1DF7-4D94-9D0B-C882D7385533}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.bleissem.SharpChessClone.Lib", "com.bleissem.SharpChessClone.Lib\com.bleissem.SharpChessClone.Lib.csproj", "{AD1EFAB9-B733-45AB-B9B2-EF68D263A3DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.bleissem.SharpChessClone.Common", "com.bleissem.SharpChessClone.Lib\com.bleissem.SharpChessClone.Common.csproj", "{AD1EFAB9-B733-45AB-B9B2-EF68D263A3DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

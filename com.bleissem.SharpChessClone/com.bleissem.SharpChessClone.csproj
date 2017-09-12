@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\com.bleissem.SharpChessClone.Lib\com.bleissem.SharpChessClone.Lib.csproj" />
+    <ProjectReference Include="..\com.bleissem.SharpChessClone.Lib\com.bleissem.SharpChessClone.Common.csproj" />
   </ItemGroup>
 
 </Project>
